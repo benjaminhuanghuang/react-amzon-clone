@@ -41,6 +41,11 @@ stick the header
 
 - React Context API + Add to Basket button
 
+Use store in component
+```
+  const [{basket}] = useStateValue();
+```
+
 - Checkout page
 
 - subtotal component
