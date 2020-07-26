@@ -15,7 +15,7 @@ function Home() {
       <div className="home__row">
         <Product
           id="1111"
-          title="dddd"
+          title="dddddddddd"
           price={11.1}
           rating={5}
           image="https://www.amazon.com/images/G/01/xba/GD_US_E_July_2020_379x304._SY304_CB429362087_.jpg"
