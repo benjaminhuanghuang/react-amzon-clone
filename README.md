@@ -20,7 +20,12 @@
   npm i -S react-router-dom
 ```
 
-- Nav bar
+- Nav bar + Material UI 
+```
+  npm i -S @material-ui/core
+  npm i -S @material-ui/icons
+
+```
 
 - Banner
 
