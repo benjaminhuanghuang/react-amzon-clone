@@ -49,8 +49,17 @@ Use store in component
 - Checkout page
 
 - subtotal component
+```
+  npm i -S  react-currency-format
+```
 
 - Login Page
+connect to firebase
+```
+npm i -s firebase
+```
+copyt the config from firebase project dashboard 
+
 
 - Deploy
 
