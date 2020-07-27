@@ -60,6 +60,9 @@ npm i -s firebase
 ```
 copyt the config from firebase project dashboard 
 
+Enable the Email/Password auth in the firebase project dashboard 
+
+
 
 - Deploy
 
