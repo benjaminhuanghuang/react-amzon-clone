@@ -63,6 +63,13 @@ copyt the config from firebase project dashboard
 Enable the Email/Password auth in the firebase project dashboard 
 
 
-
 - Deploy
+```
+  cd amazon-clone
+  npm run build
+
+  firebase login
+  firebase init
+  firebase deploy
+```
 
