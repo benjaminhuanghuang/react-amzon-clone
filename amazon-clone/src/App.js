@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 //
 import Header from "./Header";
 import Home from "./Home";
+import Checkout from "./Checkout";
 
 //
 import "./App.css";
@@ -13,7 +14,8 @@ function App() {
       <div className="app">
         <Switch>
           <Route path="/checkout">
-            <h1>Checkout</h1>
+          <Header />
+          <Checkout/>
           </Route>
           <Route path="/login">
             <h1>Login</h1>
